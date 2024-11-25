@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttonBackground">#1EDFA6</color>
+    <color name="buttonText">#FFFFFF</color>
+    <color name="background">#F5F5F5</color>
+    <color name="titleText">#3F51B5</color>
+    <color name="inputText">#212121</color>
+    <color name="operationText">#FF5722</color>
+    <color name="equalText">#009688</color>
+    <color name="resultText">#164FE4</color>
+</resources>
