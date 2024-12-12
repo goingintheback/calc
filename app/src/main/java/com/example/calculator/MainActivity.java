@@ -91,10 +91,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         result.setText(res + "");
     }
 
-    public void Click(View view) {
-        Intent intent = new Intent(this, AuthorActivity.class);
-        startActivity(intent);
-        finish();
-    }
-
 }
